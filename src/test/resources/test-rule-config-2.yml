@@ -1,0 +1,18 @@
+---
+rule: "ThreeForTwo"
+description: "Buy any 3 equal priced items and pay for 2"
+---
+rule: "BuyTwoEqualSpecialPrice"
+description: "Buy 2 equal priced items for a special price"
+itemId: carrot-1
+specialPrice: 2.00
+---
+rule: "BuyThreeSameGroupIdCheapestFree"
+description: "Buy 3(in a group of items) and cheapest is free"
+---
+rule: "BuyNGetYFree"
+description: "For each N items X, you get K items Y for free"
+nItemId: steak-1
+nQuantity: 3
+yItemId: apple-1
+yQuantity: 2
