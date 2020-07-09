@@ -1,6 +1,5 @@
 package com.johnc.service;
 
-import com.johnc.exception.EmptyItemException;
 import com.johnc.model.Receipt;
 import com.johnc.model.item.CheckoutItem;
 import com.johnc.model.summary.ItemMetaData;

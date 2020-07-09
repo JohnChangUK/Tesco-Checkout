@@ -1,9 +1,9 @@
 package com.johnc;
 
-import com.johnc.exception.EmptyItemException;
 import com.johnc.model.Receipt;
 import com.johnc.rule.DiscountRuleEngine;
 import com.johnc.service.CheckoutItemService;
+import com.johnc.service.EmptyItemException;
 import com.johnc.service.ReceiptService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

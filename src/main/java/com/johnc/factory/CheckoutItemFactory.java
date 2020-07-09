@@ -1,6 +1,5 @@
 package com.johnc.factory;
 
-import com.johnc.exception.InvalidItemException;
 import com.johnc.model.item.Apple;
 import com.johnc.model.item.Banana;
 import com.johnc.model.item.Carrot;

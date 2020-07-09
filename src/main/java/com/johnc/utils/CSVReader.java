@@ -1,7 +1,7 @@
 package com.johnc.utils;
 
-import com.johnc.exception.InvalidItemException;
 import com.johnc.factory.CheckoutItemFactory;
+import com.johnc.factory.InvalidItemException;
 import com.johnc.model.item.CheckoutItem;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

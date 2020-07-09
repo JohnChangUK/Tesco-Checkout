@@ -1,6 +1,5 @@
 package com.johnc.factory;
 
-import com.johnc.exception.InvalidItemException;
 import org.junit.Test;
 
 import java.math.BigDecimal;
